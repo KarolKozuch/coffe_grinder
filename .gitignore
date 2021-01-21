@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# Generated files
+Drivers/
+
+#config files of STM32CubeIDE
+.settings/
